@@ -12,7 +12,7 @@ title                    : "HOME"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://mpapervideo.github.io/Mresearch # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://mpapervideo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mpapervideo.github.io/Mresearch"
 
