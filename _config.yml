@@ -21,12 +21,12 @@ repository               : "mpapervideo.github.io/Mresearch"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "--"
+  avatar           : 
+  name             : 
   pronouns         :
   bio              :
-  location         : "--"
-  employer         : "--"
+  location         : 
+  employer         : 
   uri              :
   email            :
 
